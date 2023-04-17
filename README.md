@@ -28,13 +28,13 @@ PhonePe Pulse Data Visualization and Exploration is a user-friendly tool that us
 
 # some visualizaation used for easy acess to the user
   # APP USERS
-    ![image](https://user-images.githubusercontent.com/125632137/232462302-c28ea397-f9b6-40fe-9787-f1c0a85467a4.png)
+   ![image](https://user-images.githubusercontent.com/125632137/232462302-c28ea397-f9b6-40fe-9787-f1c0a85467a4.png)
     
   # TREE MAP ANALYSIS ANIMATED
-    ![image](https://user-images.githubusercontent.com/125632137/232462542-39fcae27-4b69-4172-ac3a-76f3fcd461be.png)
+   ![image](https://user-images.githubusercontent.com/125632137/232462542-39fcae27-4b69-4172-ac3a-76f3fcd461be.png)
  
   # PIE CHART ANALYSIS ON BRANDS ANIMATED
-    ![image](https://user-images.githubusercontent.com/125632137/232462760-03946959-3f24-4637-b1f2-9d4d8541ba07.png)
+   ![image](https://user-images.githubusercontent.com/125632137/232462760-03946959-3f24-4637-b1f2-9d4d8541ba07.png)
 
 Used many type of visualization and exploration for easy understad.Do try it for colourful visualization on phone_pe data
 
